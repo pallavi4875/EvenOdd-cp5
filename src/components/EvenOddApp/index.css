@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.container {
+  padding: 25px;
+}
+.card {
+  background-color: pink;
+  width: 300px;
+  height: 500px;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 15px;
+  text-align: center;
+}
+.para {
+  color: gray;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: #ffffff;
+  color: black;
+  padding: 10px;
+  width: 80px;
+  height: 60px;
+  border-radius: 8px;
+}
